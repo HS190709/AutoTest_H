@@ -1,4 +1,4 @@
-package com.hs;
+package com.Utils;
 
 public class UtilsFunc {
     static double PI = 3.1415;

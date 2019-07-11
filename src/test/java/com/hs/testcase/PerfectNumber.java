@@ -1,6 +1,5 @@
 package com.hs.testcase;
 
-import com.hs.UtilsFunc;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import com.hs.test.ToolsFunc;
@@ -38,7 +37,7 @@ public class PerfectNumber {
     @Test
     public void testcase5(){
         //对于重名的类，可以用全路径引用
-        double a = UtilsFunc.area(20);
+        double a = com.Utils.UtilsFunc.area(20);
         System.out.println("res is :"+a);
         Assert.assertEquals(1256.6000000000001,a);
         System.out.println(a);
