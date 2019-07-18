@@ -7,8 +7,8 @@
             </run>
         </groups>
         <classes>
-            <class name="com.hosni.suitTest.LogIn"/>
-            <class name="com.hosni.suitTest.Pay"/>
+            <class name="com.hosni.autotest.chapterfive.LogIn"/>
+            <class name="com.hosni.autotest.chapterfive.Pay"/>
         </classes>
     </test>
 </suite>

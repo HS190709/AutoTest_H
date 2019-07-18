@@ -5,22 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="097c6335-300e-4f5a-9ec5-0dfb466605ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hosni/suitTest/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hosni/suitTest/LogIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hosni/suitTest/Pay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/groups.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hosni/autotest/chapterfive/DependenceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a" beforeDir="false" afterPath="$PROJECT_DIR$/a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inter/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestScannerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestScannerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hosni/TestScannerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filetest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/happy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/CalendarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/CalendarDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/abstracttest/AbstractParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/abstracttest/AbstractParent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inter/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inter/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inter/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/CalendarDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/CalendarDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hosni/suitetest/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hosni/suitetest/LogIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hosni/suitetest/Pay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/groups.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/groups.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/abstracttest/AbstractParent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/abstracttest/AbstractParent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hosni/suitTest/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hosni/suitTest/LogIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hosni/suitTest/Pay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/groups.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/groups.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,32 +49,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/autotest/chapterfive/LogIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="48" column="8" selection-start-line="48" selection-start-column="4" selection-end-line="61" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/groups.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="264">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/suitTest/LogIn.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/autotest/chapterfive/Pay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/autotest/chapterfive/ExceptionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/autotest/chapterfive/DependenceTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="21" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/autotest/chapterfive/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="610">
+              <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -103,8 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/TestDemo6.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestMEthodDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestMethodDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/TestMethodDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestIODemo.java" />
@@ -153,6 +184,8 @@
         <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/groups" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hosni/suitTest/ExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hosni/suitetest/ExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/groups.xml" />
       </list>
     </option>
@@ -187,6 +220,9 @@
       <select />
     </treeState>
   </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -199,8 +235,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,42 +253,29 @@
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapterfive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="suitTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,7 +292,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -283,11 +306,11 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\test\src\test\resources" />
+      <recent name="G:\test\src\main\java\com\hosni" />
+      <recent name="G:\test\src\main\java\inter" />
       <recent name="G:\test\src\main\java\test" />
+      <recent name="G:\test\src\test\resources" />
       <recent name="G:\test\src\test\java\test" />
-      <recent name="G:\test\src\test\java" />
-      <recent name="G:\test\src\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -302,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.G:/test/src/test/resources/groups.xml">
+  <component name="RunManager" selected="TestNG.LogIn">
     <configuration name="JavaNumber" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaNumber" />
       <module name="test" />
@@ -310,34 +333,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AbstractParent" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionTest.runtimeException" type="TestNG" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstracttest.*" />
+          <option name="PATTERN" value="com.hosni.autotest.chapterfive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="abstracttest" />
-      <option name="MAIN_CLASS_NAME" value="abstracttest.AbstractParent" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.hosni.autotest.chapterfive" />
+      <option name="MAIN_CLASS_NAME" value="com.hosni.autotest.chapterfive.ExceptionTest" />
+      <option name="METHOD_NAME" value="runtimeException" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AbstractParent.Test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionTest.runtimeException" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstracttest.*" />
+          <option name="PATTERN" value="com.hosni.autotest.chapterfive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="abstracttest" />
-      <option name="MAIN_CLASS_NAME" value="abstracttest.AbstractParent" />
-      <option name="METHOD_NAME" value="Test" />
+      <option name="PACKAGE_NAME" value="com.hosni.suitTest" />
+      <option name="MAIN_CLASS_NAME" value="com.hosni.autotest.chapterfive.ExceptionTest" />
+      <option name="METHOD_NAME" value="runtimeException" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -355,20 +387,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G:/test/src/test/resources/testn.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LogIn" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testn.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hosni.autotest.chapterfive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hosni.autotest.chapterfive" />
+      <option name="MAIN_CLASS_NAME" value="com.hosni.autotest.chapterfive.LogIn" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G:/test/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Pay" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hosni.autotest.chapterfive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hosni.autotest.chapterfive" />
+      <option name="MAIN_CLASS_NAME" value="com.hosni.autotest.chapterfive.Pay" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -377,19 +423,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.JavaNumber" />
-      <item itemvalue="TestNG.AbstractParent" />
-      <item itemvalue="TestNG.AbstractParent.Test" />
-      <item itemvalue="TestNG.G:/test/src/test/resources/testng.xml" />
-      <item itemvalue="TestNG.G:/test/src/test/resources/testn.xml" />
+      <item itemvalue="TestNG.ExceptionTest.runtimeException" />
       <item itemvalue="TestNG.G:/test/src/test/resources/groups.xml" />
+      <item itemvalue="TestNG.Pay" />
+      <item itemvalue="TestNG.LogIn" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LogIn" />
+        <item itemvalue="TestNG.Pay" />
         <item itemvalue="TestNG.G:/test/src/test/resources/groups.xml" />
-        <item itemvalue="TestNG.G:/test/src/test/resources/testn.xml" />
-        <item itemvalue="TestNG.G:/test/src/test/resources/testng.xml" />
-        <item itemvalue="TestNG.AbstractParent.Test" />
-        <item itemvalue="TestNG.AbstractParent" />
+        <item itemvalue="TestNG.ExceptionTest.runtimeException" />
       </list>
     </recent_temporary>
   </component>
@@ -427,44 +471,45 @@
       <workItem from="1562565517114" duration="2497000" />
       <workItem from="1562657662191" duration="1465000" />
       <workItem from="1562936117820" duration="4584000" />
-      <workItem from="1563368903268" duration="8581000" />
+      <workItem from="1563368903268" duration="13160000" />
+      <workItem from="1563460095450" duration="250000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="G__test_src_test_resources_testng_xml - 2019.07.18 at 11h 58m 50s.xml">
-      <configuration name="G:/test/src/test/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="ExceptionTest_runtimeException - 2019.07.18 at 21h 54m 01s.xml">
+      <configuration name="ExceptionTest.runtimeException" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="G__test_src_test_resources_testng_xml - 2019.07.18 at 12h 04m 46s.xml">
-      <configuration name="G:/test/src/test/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="ExceptionTest_runtimeException - 2019.07.18 at 21h 54m 16s.xml">
+      <configuration name="ExceptionTest.runtimeException" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="G__test_src_test_resources_testng_xml - 2019.07.18 at 12h 05m 13s.xml">
-      <configuration name="G:/test/src/test/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="ExceptionTest_runtimeException - 2019.07.18 at 21h 54m 24s.xml">
+      <configuration name="ExceptionTest.runtimeException" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="G__test_src_test_resources_testn_xml - 2019.07.18 at 12h 06m 05s.xml">
-      <configuration name="G:/test/src/test/resources/testn.xml" configurationId="TestNG" />
+    <history-entry file="ExceptionTest_runtimeException_(5) - 2019.07.18 at 21h 54m 36s.xml">
+      <configuration name="ExceptionTest.runtimeException (5)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="G__test_src_test_resources_groups_xml - 2019.07.18 at 12h 07m 14s.xml">
+    <history-entry file="ExceptionTest_runtimeException_(1) - 2019.07.18 at 21h 55m 00s.xml">
+      <configuration name="ExceptionTest.runtimeException (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExceptionTest_runtimeException - 2019.07.18 at 21h 55m 07s.xml">
+      <configuration name="ExceptionTest.runtimeException" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExceptionTest_runtimeException - 2019.07.18 at 21h 55m 14s.xml">
+      <configuration name="ExceptionTest.runtimeException" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="G__test_src_test_resources_groups_xml - 2019.07.18 at 22h 14m 30s.xml">
       <configuration name="G:/test/src/test/resources/groups.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="G__test_src_test_resources_groups_xml - 2019.07.18 at 12h 08m 05s.xml">
-      <configuration name="G:/test/src/test/resources/groups.xml" configurationId="TestNG" />
+    <history-entry file="Pay - 2019.07.18 at 22h 14m 45s.xml">
+      <configuration name="Pay" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="G__test_src_test_resources_groups_xml - 2019.07.18 at 12h 08m 21s.xml">
-      <configuration name="G:/test/src/test/resources/groups.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="G__test_src_test_resources_groups_xml - 2019.07.18 at 15h 39m 48s.xml">
-      <configuration name="G:/test/src/test/resources/groups.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="G__test_src_test_resources_groups_xml - 2019.07.18 at 15h 39m 56s.xml">
-      <configuration name="G:/test/src/test/resources/groups.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="G__test_src_test_resources_groups_xml - 2019.07.18 at 15h 40m 10s.xml">
-      <configuration name="G:/test/src/test/resources/groups.xml" configurationId="TestNG" />
+    <history-entry file="LogIn - 2019.07.18 at 22h 14m 53s.xml">
+      <configuration name="LogIn" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221856000" />
+    <option name="totallyTimeSpent" value="226685000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -478,7 +523,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.37702703" visible="true" weight="0.17643923" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.37702703" visible="true" weight="0.17803837" />
       <window_info id="Structure" order="1" sideWeight="0.62297297" side_tool="true" weight="0.15191898" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -489,13 +534,13 @@
       <window_info id="Persistence" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32900432" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32900432" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32827735" />
       <window_info anchor="bottom" x="0" y="0" width="1920" height="1040" id="Run" order="3" weight="0.47562298" />
       <window_info anchor="bottom" id="Debug" order="4" type="SLIDING" weight="0.32575756" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32827735" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3336945" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3336945" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -508,7 +553,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Maven" order="6" sideWeight="0.4984985" weight="0.32995737" />
+      <window_info active="true" anchor="right" id="Maven" order="6" sideWeight="0.4984985" visible="true" weight="0.32995737" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
@@ -640,139 +685,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-          <folding>
-            <element signature="e#2871#2872#0" expanded="true" />
-            <element signature="e#2896#2897#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#print#0;class#Test1#0" />
-            <element signature="method#print#1;class#Test1#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/DWQDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#print#0;class#DWQDemo#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar!/lombok/Data.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/test/Main.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/test/ManPersonOperation.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/PerfectNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/ParseDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/CheckPhoneNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="122" column="7" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -978,7 +890,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Search.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/inter/Search.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/CalendarDemo.java">
@@ -988,60 +900,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/suitTest/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/suitetest/Config.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/suitetest/Pay.java" />
+    <entry file="file://$PROJECT_DIR$/a" />
+    <entry file="file://$PROJECT_DIR$/b" />
+    <entry file="file://$PROJECT_DIR$/a.txt" />
+    <entry file="file://$PROJECT_DIR$/jj" />
+    <entry file="file://$PROJECT_DIR$/hello1" />
+    <entry file="file://$PROJECT_DIR$/hello.txt" />
+    <entry file="file://$PROJECT_DIR$/happy.txt" />
+    <entry file="file://$PROJECT_DIR$/filetest" />
+    <entry file="file://$PROJECT_DIR$/test.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/suitTest/Pay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/groups.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hosni/TestScannerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/suitetest/LogIn.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/suitetest/ExceptionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/groups.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/autotest/chapterfive/LogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/autotest/chapterfive/Pay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/autotest/chapterfive/ExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/autotest/chapterfive/DependenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/autotest/chapterfive/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="4" selection-end-line="61" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hosni/suitTest/LogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="21" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/groups.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1102,7 +1033,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1132,5 +1062,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>
