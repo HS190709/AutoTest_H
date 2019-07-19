@@ -32,8 +32,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="315" column="20" lean-forward="true" selection-start-line="315" selection-start-column="20" selection-end-line="315" selection-end-column="20" />
+            <state relative-caret-position="504">
+              <caret line="330" column="20" lean-forward="true" selection-start-line="330" selection-start-column="20" selection-end-line="330" selection-end-column="20" />
+              <folding>
+                <element signature="e#31272#31278#0" expanded="true" />
+                <element signature="e#31288#31294#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -421,7 +425,7 @@
       <workItem from="1562657662191" duration="1465000" />
       <workItem from="1562936117820" duration="4584000" />
       <workItem from="1563368903268" duration="13160000" />
-      <workItem from="1563460095450" duration="9077000" />
+      <workItem from="1563460095450" duration="9695000" />
     </task>
     <servers />
   </component>
@@ -458,7 +462,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235512000" />
+    <option name="totallyTimeSpent" value="236130000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -928,8 +932,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="315" column="20" lean-forward="true" selection-start-line="315" selection-start-column="20" selection-end-line="315" selection-end-column="20" />
+        <state relative-caret-position="504">
+          <caret line="330" column="20" lean-forward="true" selection-start-line="330" selection-start-column="20" selection-end-line="330" selection-end-column="20" />
+          <folding>
+            <element signature="e#31272#31278#0" expanded="true" />
+            <element signature="e#31288#31294#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
