@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="097c6335-300e-4f5a-9ec5-0dfb466605ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,11 +33,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="330" column="20" lean-forward="true" selection-start-line="330" selection-start-column="20" selection-end-line="330" selection-end-column="20" />
+            <state relative-caret-position="600">
+              <caret line="334" column="20" lean-forward="true" selection-start-line="334" selection-start-column="20" selection-end-line="334" selection-end-column="20" />
               <folding>
-                <element signature="e#31272#31278#0" expanded="true" />
-                <element signature="e#31288#31294#0" expanded="true" />
+                <element signature="e#31465#31471#0" expanded="true" />
+                <element signature="e#31481#31487#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -425,7 +426,7 @@
       <workItem from="1562657662191" duration="1465000" />
       <workItem from="1562936117820" duration="4584000" />
       <workItem from="1563368903268" duration="13160000" />
-      <workItem from="1563460095450" duration="9695000" />
+      <workItem from="1563460095450" duration="10348000" />
     </task>
     <servers />
   </component>
@@ -462,7 +463,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236130000" />
+    <option name="totallyTimeSpent" value="236783000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -932,11 +933,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="330" column="20" lean-forward="true" selection-start-line="330" selection-start-column="20" selection-end-line="330" selection-end-column="20" />
+        <state relative-caret-position="600">
+          <caret line="334" column="20" lean-forward="true" selection-start-line="334" selection-start-column="20" selection-end-line="334" selection-end-column="20" />
           <folding>
-            <element signature="e#31272#31278#0" expanded="true" />
-            <element signature="e#31288#31294#0" expanded="true" />
+            <element signature="e#31465#31471#0" expanded="true" />
+            <element signature="e#31481#31487#0" expanded="true" />
           </folding>
         </state>
       </provider>
