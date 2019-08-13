@@ -1,9 +1,9 @@
 package com.hs.testcase;
 
+import com.hs.TestUtils.UtilsFunc;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import com.hs.test.ToolsFunc;
-import com.hs.test.TestUtils.UtilsFunc;
 
 public class PerfectNumber {
     @Test
