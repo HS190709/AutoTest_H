@@ -6,16 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a706f60-c4f3-47b7-aa94-a4fbe468b64c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hs/StackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hs/TraverseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hs/WriterDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hs/test/groups/GroupOnClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hs/test/groups/GroupOnClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hs/test/groups/GroupOnClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hs/test/groups/GroupOnClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hs/test/groups/GroupOnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hs/test/groups/GroupOnMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hs/testcase/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hs/testcase/PerfectNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/groupsOnClass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/groupsOnClass.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/TestScannerDemo.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,14 +29,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hs/PersonSalary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+            <state relative-caret-position="1014">
+              <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#888#907#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hs/StackDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6422">
+              <caret line="270" column="13" selection-start-line="270" selection-start-column="13" selection-end-line="270" selection-end-column="13" />
+              <folding>
+                <element signature="e#7989#7990#0" expanded="true" />
+                <element signature="e#8017#8018#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8528">
+              <caret line="354" column="7" selection-start-line="354" selection-start-column="7" selection-end-line="354" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hs/TraverseDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hs/WriterDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,7 +117,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>A</find>
+      <find>arrayList</find>
     </findStrings>
+    <replaceStrings>
+      <replace>list</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -111,6 +172,9 @@
         <option value="$PROJECT_DIR$/src/test/resources/groupsOnClass.xml" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/hs/PersonSalary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hs/StackDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hs/TraverseDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hs/WriterDemo.java" />
       </list>
     </option>
   </component>
@@ -262,7 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PersonSalary">
+  <component name="RunManager" selected="Application.WriterDemo">
     <configuration name="Divisor" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.Divisor" />
       <module name="HsTestNG" />
@@ -276,12 +340,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.Dog" />
+    <configuration name="PersonSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hs.PersonSalary" />
       <module name="HsTestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="com.hs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,8 +354,36 @@
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hs.PersonSalary" />
+    <configuration name="StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hs.StackDemo" />
+      <module name="HsTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TraverseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hs.TraverseDemo" />
+      <module name="HsTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hs.WriterDemo" />
       <module name="HsTestNG" />
       <extension name="coverage">
         <pattern>
@@ -320,48 +412,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/learning/HsTestNG/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="HsTestNG" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupOnMethod" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="HsTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hs.test.groups.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hs.test.groups" />
-      <option name="MAIN_CLASS_NAME" value="com.hs.test.groups.GroupOnMethod" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Divisor" />
-      <item itemvalue="Application.Dog" />
-      <item itemvalue="TestNG.GroupOnMethod" />
-      <item itemvalue="TestNG.D:/learning/HsTestNG/src/test/resources/testng.xml" />
-      <item itemvalue="TestNG.D:/learning/HsTestNG/src/test/resources/groupsOnClass.xml" />
       <item itemvalue="Application.PersonSalary" />
+      <item itemvalue="Application.StackDemo" />
+      <item itemvalue="Application.TraverseDemo" />
+      <item itemvalue="Application.WriterDemo" />
+      <item itemvalue="TestNG.D:/learning/HsTestNG/src/test/resources/groupsOnClass.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WriterDemo" />
+        <item itemvalue="Application.TraverseDemo" />
+        <item itemvalue="Application.StackDemo" />
         <item itemvalue="Application.PersonSalary" />
         <item itemvalue="TestNG.D:/learning/HsTestNG/src/test/resources/groupsOnClass.xml" />
-        <item itemvalue="TestNG.D:/learning/HsTestNG/src/test/resources/testng.xml" />
-        <item itemvalue="TestNG.GroupOnMethod" />
-        <item itemvalue="Application.Dog" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +465,15 @@
       <workItem from="1563388940545" duration="831000" />
       <workItem from="1563389795178" duration="547000" />
       <workItem from="1563390366782" duration="1283000" />
-      <workItem from="1565712235664" duration="6772000" />
+      <workItem from="1565712235664" duration="7025000" />
+      <workItem from="1567801581756" duration="3717000" />
+      <workItem from="1575207767528" duration="2837000" />
+      <workItem from="1575303811768" duration="3851000" />
+      <workItem from="1575318886116" duration="664000" />
+      <workItem from="1575558792946" duration="667000" />
+      <workItem from="1575568224894" duration="703000" />
+      <workItem from="1575570572968" duration="1143000" />
+      <workItem from="1576351600460" duration="6763000" />
     </task>
     <servers />
   </component>
@@ -437,13 +510,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48410000" />
+    <option name="totallyTimeSpent" value="69008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48387095" visible="true" weight="0.14745308" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48387095" visible="true" weight="0.107238606" />
       <window_info id="Structure" order="1" sideWeight="0.516129" side_tool="true" weight="0.21179625" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -453,7 +526,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281471" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23796034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28045326" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,49 +553,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.xml/com/sun/org/apache/xpath/internal/compiler/XPathParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret line="2053" column="17" selection-start-line="2053" selection-start-column="17" selection-end-line="2053" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hs/test/PolyMorphysm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hs/test/testcase/PerfectNumber.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="482" column="17" selection-start-line="482" selection-start-column="17" selection-end-line="482" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24420">
-          <caret line="857" column="33" selection-start-line="857" selection-start-column="33" selection-end-line="857" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16470">
-          <caret line="572" selection-start-line="572" selection-end-line="572" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="57" column="25" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/hs/test/Divisor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -903,13 +933,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="337" column="19" lean-forward="true" selection-start-line="337" selection-start-column="19" selection-end-line="337" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hs/PersonSalary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        <state relative-caret-position="1014">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#888#907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hs/StackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6422">
+          <caret line="270" column="13" selection-start-line="270" selection-start-column="13" selection-end-line="270" selection-end-column="13" />
+          <folding>
+            <element signature="e#7989#7990#0" expanded="true" />
+            <element signature="e#8017#8018#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8528">
+          <caret line="354" column="7" selection-start-line="354" selection-start-column="7" selection-end-line="354" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hs/TraverseDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hs/WriterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
