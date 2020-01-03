@@ -15,7 +15,7 @@ public class WriterDemo {
         Writer writer=new FileWriter(file);
         String data0="file  'c:/Users/HS/Downloads/test/hls-720p";
         String data1=".mp4'\r\n";
-        for (int i=0;i<401;i++){
+        for (int i=0;i<232;i++){
             String data=data0+i+data1;
             writer.write(data);
         }
