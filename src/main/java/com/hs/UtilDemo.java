@@ -17,7 +17,7 @@ public class UtilDemo {
     public static void main(String[] args) {
         UtilDemo util = new UtilDemo();
         try {
-            util.seach(util.diff(util.stringToDate(util.readData("start")), util.stringToDate(util.readData("end"))), util.diff(util.stringToDate(util.readData("started")), util.stringToDate(util.readData("ended"))));
+            util.search(util.diff(util.stringToDate(util.readData("start")), util.stringToDate(util.readData("end"))), util.diff(util.stringToDate(util.readData("started")), util.stringToDate(util.readData("ended"))));
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -65,7 +65,7 @@ public class UtilDemo {
         return list;
     }
 
-    public void seach(List<Long> plan, List<Long> actual) {
+    public void search(List<Long> plan, List<Long> actual) {
         List<Integer> list = new ArrayList<>();
         for (int i = 0; i < plan.size(); i++) {
             if (actual.get(i) - plan.get(i) > 30 && actual.get(i) - plan.get(i) < 2400) {
